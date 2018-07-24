@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+
+    <string name="index">マルチメディア処理について</string>
+    <string name="sound">音声</string>
+    <string name="graphics">映像</string>
+    <string name="game">ゲーム</string>
+
+    <!--MediaControlActivity用-->
+
+    <string name="bt_play_play">再生</string>
+    <string name="bt_play_pause">一時停止</string>
+    <string name="bt_back">&lt;&lt;</string>
+    <string name="bt_forward">&gt;&gt;</string>
+    <string name="tv_loop">リピート再生</string>
+</resources>
